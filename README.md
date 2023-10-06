@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Rahmat Alif
 - 👀 I’m interested in mobile apps
-- 🌱 I’m currently learning Java
 - 📫 How to reach me rahmatalif.id@gmail.com
 
 <!---
