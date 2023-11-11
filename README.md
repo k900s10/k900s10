@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Rahmat Alif
-- 👀 I’m interested in mobile apps
-- 📫 How to reach me rahmatalif.id@gmail.com
+<p align="center"> Portfolio</p>
 - 🔗 Check out my [Linkedin](https://www.linkedin.com/in/rahmatalifa/)
 
 <!---
